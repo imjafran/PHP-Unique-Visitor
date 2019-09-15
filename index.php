@@ -1,4 +1,4 @@
-<pre><?php 
+<?php 
 require __DIR__. '/counter/counter.php';
 
 // make one hit
